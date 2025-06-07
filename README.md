@@ -3,7 +3,7 @@
 Sou dedicada a aperfeiçoar minhas competências técnicas e estou comprometida com o aprendizado contínuo e o crescimento profissional dentro da área de tecnologia.<br>
 Atualmente, estou cursando <strong>Pós-Graduação em Automação de Testes na Faculdade VINCIT</strong>! 🎓✨
 </p>
-
+https://www.linkedin.com/in/giovanna-tavares-2405b7114/
 <h2>🧠 Tecnologias & Ferramentas</h2>
 
 <h3>💻 Linguagens de Programação</h3>
