@@ -1,16 +1,31 @@
 ## Hi there 👋
 
 <!--
-**giovannamt/giovannamt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Sobre Mim
+Sou dedicada a aperfeiçoar minhas competências técnicas e estou comprometida com o aprendizado contínuo e o crescimento profissional dentro da área de tecnologia. Atualmente, estou cursando Pós-Graduação em Automação de Testes na Faculdade VINCIT! 🎓✨ Meu foco é evoluir diariamente, colaborando em projetos que me desafiem e contribuam para meu desenvolvimento.
 
-Here are some ideas to get you started:
+🧠** Tecnologias & Ferramentas**
+💻 Linguagens de Programação
+JavaScript (Node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+TypeScript
+
+🛠 Ferramentas de Desenvolvimento
+Visual Studio Code
+
+Windows Subsystem for Linux (WSL)
+
+Postman
+
+🕸 Frameworks & Bibliotecas
+Puppeteer (automação de navegador e coleta de dados)
+
+🗃 Bancos de Dados
+Microsoft SQL Server
+
+🔄 Controle de Versão
+GitHub
+
+📊 Metodologia Ágil
+Kanban
 -->
