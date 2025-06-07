@@ -4,6 +4,7 @@
 
 Sou dedicada a aperfeiçoar minhas competências técnicas e estou comprometida com o aprendizado contínuo e o crescimento profissional dentro da área de tecnologia. Atualmente, estou cursando Pós-Graduação em Automação de Testes na Faculdade VINCIT! 🎓✨ Meu foco é evoluir diariamente, colaborando em projetos que me desafiem e contribuam para meu desenvolvimento.
 
+
 🧠** Tecnologias & Ferramentas**
 💻 Linguagens de Programação
 JavaScript (Node.js)
